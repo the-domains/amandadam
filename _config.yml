@@ -1,7 +1,7 @@
 name: AmandAdam
 favicon: null
-layout_spectrum: 0.9718553519342095
-typography_spectrum: 0.8486688365228474
+layout_spectrum: 0.90202
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.8960007538553327
+    - '#000000'
+    - '#ffffff'
+    - '#c9bfbd'
+    - '#b78b6e'
+    - '#443123'
+  brandStrength: 0.25
   lightness: 0.7732499474659562
-  saturation: 0.6485568354837596
-  rhythmicContrast: 0.06580284982919693
+  saturation: 0.375
+  rhythmicContrast: 0.25
 purpose: []
